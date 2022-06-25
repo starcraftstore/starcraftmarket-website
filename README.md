@@ -1,6 +1,6 @@
 # StarCraft Market
 
-[MADE BY HTML5UP](https://html5up.net)
+[MADE BY HTML5UP](https://html5up.net) | 
 [DISCORD SERVERS](https://discord.gg/PMeEZvPu3u)
 
 ## About StarCraft Market
