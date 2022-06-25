@@ -1,5 +1,9 @@
 # StarCraft Market
 
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/starcraftstore/starcraftmarket-website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/starcraftstore/starcraftmarket-website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Run on Repl.it](https://repl.it/badge/github/starcraftstore/starcraftmarket-website)](https://repl.it/github/starcraftstore/starcraftmarket-website)
+
 [MADE BY HTML5UP](https://html5up.net) | 
 [DISCORD SERVERS](https://discord.gg/PMeEZvPu3u)
 
